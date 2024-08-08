@@ -1,0 +1,90 @@
+Certainly! Here’s the CV with bullets added to the Experience section:
+
+---
+
+**Bhartesh Rajkumar Girmal**  
+A/P A.Lat-416143 Kolhapur, Maharashtra  
+girmalbhartesh9178@gmail.com  
++91 95030 42573  
+[GitHub Profile](https://github.com/BharteshGirmal)  
+[LinkedIn Profile](https://www.linkedin.com/in/bhartesh-girmal-ab12161ab/)
+
+---
+
+### **Professional Summary**
+
+Innovative Solution Developer with over 1 year and 6 months of experience at Tata Technologies. Specializes in developing and enhancing complex web applications with expertise in both front-end and full-stack development. Adept at utilizing a diverse technology stack to deliver scalable and impactful solutions.
+
+---
+
+### **Experience**
+
+**Solution Developer**  
+*Tata Technologies*  
+*January 2023 – Present*
+
+- Designed and implemented user interfaces using HTML, CSS, and Bootstrap.
+- Enhanced user interactions with JavaScript, jQuery, and integrated React.js for responsive UI components.
+- Developed server-side scripts with Perl and managed databases using MySQL.
+- Created APIs for efficient data handling and improved application performance.
+- Designed and optimized features for the Cost Engineering Hub application.
+- Applied technologies including Perl, MySQL, JavaScript, Ajax, jQuery, HTML, CSS, Bootstrap, and React.js to deliver scalable solutions.
+- Customized features to meet the needs of various user roles within the application.
+
+**Skilled Graduate Engineer Trainee**  
+*Tata Technologies*  
+*January 2023 – December 2023*
+
+- Engaged in front-end and back-end development using HTML, CSS, JavaScript, and MySQL.
+- Supported feature development, bug fixing, and application testing across multiple projects.
+- Contributed to feature enhancements and performance improvements.
+
+---
+
+### **Education**
+
+**Bachelor of Engineering in Mechanical**  
+*Dr. J.J. Magdum College of Engineering, Jaysingpur*  
+*Shivaji University, Kolhapur, Maharashtra*  
+*2020*
+
+**Center for Development of Advanced Computing (CDAC)**  
+*Certification Completed in 2022*
+
+---
+
+### **Certifications**
+
+**JavaScript from Zero to Expert**  
+*Udemy*  
+*Credential ID:* UC-5c3ea3d9-d2e1-4774-8fa8-a379178c39bc
+
+---
+
+### **Skills**
+
+Perl, JavaScript, C, C++, Core Java, Advanced Java, HTML, CSS, Bootstrap, React.js, Ajax, jQuery, Spring Boot, MySQL, Data Structures, Algorithms
+
+---
+
+### **Key Projects**
+
+**E Quiz Web Application**  
+*[Year/Date of Completion]*  
+Developed an online quiz platform for teachers and students using React.js for the front end and Java for the back end. Enabled real-time quiz management, question creation, and result tracking, enhancing the online learning experience.
+
+---
+
+### **Social Links**
+
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/bhartesh-girmal-ab12161ab/)
+- **GitHub:** [GitHub Profile](https://github.com/BharteshGirmal)
+- **Personal Website:** [Website URL] (if applicable)
+
+---
+
+### **Core Competencies**
+
+Proficient in front-end and back-end development with strong problem-solving and analytical skills. Expertise in optimizing application performance and enhancing user experience. Effective team collaborator with a proven track record of innovation and achieving project goals.
+
+---

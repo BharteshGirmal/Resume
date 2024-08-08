@@ -1,0 +1,104 @@
+Certainly! Here’s your complete ATS-friendly CV with the updated experience descriptions:
+
+---
+
+**Bhartesh Rajkumar Girmal**  
+A/P A.Lat-416143 Kolhapur, Maharashtra  
+girmalbhartesh9178@gmail.com  
++91 95030 42573  
+[GitHub Profile](https://github.com/BharteshGirmal)  
+[LinkedIn Profile](https://www.linkedin.com/in/bhartesh-girmal-ab12161ab/)
+
+---
+
+### **Professional Summary**
+
+Innovative Solution Developer with over 1 year and 6 months of experience at Tata Technologies. Specializes in developing and enhancing complex web applications with expertise in both front-end and full-stack development. Adept at utilizing a diverse technology stack to deliver scalable and impactful solutions.
+
+---
+
+### **Experience**
+
+**Solution Developer**  
+*Tata Technologies*  
+*January 2023 – Present*
+
+- Developed and implemented user interfaces for web applications using HTML, CSS, and Bootstrap, enhancing the user experience with responsive design.
+- Utilized JavaScript and jQuery for dynamic client-side functionality and integrated React.js for modern, interactive user interfaces.
+- Wrote server-side scripts in Perl and managed databases with MySQL, ensuring seamless data operations and backend functionality.
+- Created and optimized APIs to facilitate data interactions between front-end and back-end systems, improving application efficiency.
+- Contributed to the enhancement of the Cost Engineering Hub application, focusing on feature development and performance improvements.
+- Applied technologies including Perl, MySQL, JavaScript, Ajax, jQuery, HTML, CSS, Bootstrap, and React.js to build scalable and robust web solutions.
+- Customized application features to support different user roles such as Cost Engineers, Cost Leads, Delivery Heads, Cost Managers, and Program Managers.
+
+**Skilled Graduate Engineer Trainee**  
+*Tata Technologies*  
+*January 2023 – December 2023*
+
+- Assisted in front-end and back-end development tasks using HTML, CSS, JavaScript, and MySQL, contributing to various project phases including development, testing, and deployment.
+- Supported the development and refinement of application features, addressed bugs, and improved performance across multiple projects.
+- Gained practical experience in web development best practices and methodologies, enhancing overall project delivery.
+
+---
+
+### **Education**
+
+**Bachelor of Engineering in Mechanical**  
+*Dr. J.J. Magdum College of Engineering, Jaysingpur*  
+*Shivaji University, Kolhapur, Maharashtra*  
+*2020*
+
+**Center for Development of Advanced Computing (CDAC)**  
+*Certification Completed in 2022*
+
+---
+
+### **Certifications**
+
+**JavaScript from Zero to Expert**  
+*Udemy*  
+*Credential ID:* UC-5c3ea3d9-d2e1-4774-8fa8-a379178c39bc
+
+---
+
+### **Skills**
+
+Perl  
+JavaScript  
+C  
+C++  
+Core Java  
+Advanced Java  
+HTML  
+CSS  
+Bootstrap  
+React.js  
+Ajax  
+jQuery  
+Spring Boot  
+MySQL  
+Data Structures  
+Algorithms
+
+---
+
+### **Key Projects**
+
+**E Quiz Web Application**  
+*[Year/Date of Completion]*  
+Developed an online quiz platform for teachers and students using React.js for the front end and Java for the back end. Enabled real-time quiz management, question creation, and result tracking, enhancing the online learning experience.
+
+---
+
+### **Social Links**
+
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/bhartesh-girmal-ab12161ab/)
+- **GitHub:** [GitHub Profile](https://github.com/BharteshGirmal)
+
+---
+
+### **Core Competencies**
+
+Proficient in front-end and back-end development with strong problem-solving and analytical skills. Expertise in optimizing application performance and enhancing user experience. Effective team collaborator with a proven track record of innovation and achieving project goals.
+
+---

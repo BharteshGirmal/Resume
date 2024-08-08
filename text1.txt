@@ -1,0 +1,97 @@
+Certainly! Here is the CV in a simple text format with the 50% left-side and 50% right-side layout represented as if it were in a two-column format:
+
+---
+
+**Bhartesh Rajkumar Girmal**  
+A/P A.Lat-416143 Kolhapur, Maharashtra  
+girmalbhartesh9178@gmail.com  
++91 95030 42573  
+[GitHub Profile](https://github.com/BharteshGirmal)  
+[LinkedIn Profile](https://www.linkedin.com/in/bhartesh-girmal-ab12161ab/)
+
+---
+
+### Professional Summary
+
+Innovative Solution Developer with over 1 year and 6 months of experience at Tata Technologies. Specializes in developing and enhancing complex web applications with expertise in both front-end and full-stack development. Adept at utilizing a diverse technology stack to deliver scalable and impactful solutions.
+
+---
+
+### Experience
+
+**Solution Developer**  
+*Tata Technologies*  
+*January 2023 – Present*
+
+- **Front-End Development:** Designed and implemented intuitive user interfaces using HTML, CSS, and Bootstrap. Enhanced user interactions with JavaScript and jQuery. Integrated React.js for modern, responsive UI components.
+- **Back-End Development:** Utilized Perl for server-side scripting and MySQL for database management. Developed APIs and managed data interactions between the front-end and back-end, ensuring efficient data handling and application performance.
+- **Feature Development:** Designed and implemented new modules and optimized existing features for the Cost Engineering Hub application, improving functionality and user experience.
+- **Technology Utilization:** Applied a broad technology stack including Perl, MySQL, JavaScript, Ajax, jQuery, HTML, CSS, Bootstrap, and React.js to deliver robust and scalable web solutions.
+- **User-Centric Solutions:** Customized features to meet the needs of diverse user roles such as Cost Engineers, Cost Leads, Delivery Heads, Cost Managers, and Program Managers.
+
+**Skilled Graduate Engineer Trainee**  
+*Tata Technologies*  
+*January 2023 – December 2023*
+
+- **Development Tasks:** Engaged in both front-end and back-end development, working with HTML, CSS, JavaScript, and MySQL. Assisted in feature development, bug fixing, and application testing across various projects.
+- **Project Contributions:** Contributed to multiple projects by developing features and improving performance, gaining hands-on experience with key technologies and best practices in web development.
+
+---
+
+### Education
+
+**Bachelor of Engineering in Mechanical**  
+*Dr. J.J. Magdum College of Engineering, Jaysingpur*  
+*Shivaji University, Kolhapur, Maharashtra*  
+*2020*
+
+---
+
+### Certifications
+
+**Center for Development of Advanced Computing (CDAC)**  
+*Certification Completed in 2022*  
+- **Languages & Technologies:** C, C++, Core Java, Advanced Java, Spring Boot  
+- **Key Areas:** Data Structures and Algorithms
+
+**JavaScript from Zero to Expert**  
+*Udemy*  
+*Credential ID:* UC-5c3ea3d9-d2e1-4774-8fa8-a379178c39bc
+
+---
+
+### Technical Skills
+
+- **Programming Languages:** Perl, JavaScript, C, C++, Core Java, Advanced Java  
+- **Web Technologies:** Ajax, jQuery, HTML, CSS, Bootstrap, React.js, Spring Boot  
+- **Database Management:** MySQL  
+- **Specializations:** Full-stack development, module enhancement, application optimization, data structures, algorithms
+
+---
+
+### Key Projects
+
+**E Quiz Web Application**  
+*[Year/Date of Completion]*  
+- Developed an online quiz platform for teachers and students using React.js for the front end and Java for the back end.  
+- Enabled real-time quiz management, question creation, and result tracking, enhancing the online learning experience.
+
+---
+
+### Social Links
+
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/bhartesh-girmal-ab12161ab/)  
+**GitHub:** [GitHub Profile](https://github.com/BharteshGirmal)  
+**Personal Website:** [Website URL] (if applicable)
+
+---
+
+### Core Competencies
+
+- Proficient in front-end and back-end development with strong problem-solving and analytical skills.
+- Expertise in optimizing application performance and enhancing user experience.
+- Effective team collaborator with a proven track record of innovation and achieving project goals.
+
+---
+
+Feel free to adjust any content or layout as needed!
